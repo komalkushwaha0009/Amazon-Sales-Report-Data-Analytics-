@@ -81,7 +81,7 @@ This project demonstrates how Python can be used for real-world data analysis. I
 ## 👩‍💻 Author
 
 **Komal Kushwaha**
-Aspiring Data Analyst | Python | SQL | Power BI |Maachine Learning
+Aspiring Data Analyst | Python | SQL | Power BI |Machine Learning
 
 ## ⭐ Support
 
